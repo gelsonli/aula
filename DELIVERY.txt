@@ -1,0 +1,7 @@
+DELIVERY
+	'cliente' solicita 'pedido' com 1 ou mais 'produto' e 'produto' pode ser solicitado por 1 ou mais 'cliente'.
+
+	'produto' pode estar disponível em 1 ou mais 'estabelecimento' e 'estabelecimento' pode ter 1 ou mais 'produto'.
+
+	'estabelecimento' pode entregar para 1 ou mais 'cliente' e 'cliente' pode escolher 1 ou mais 'estabelecimento'.
+	
